@@ -1,6 +1,6 @@
 function App() {
   return (
-      <div>HI</div>
+      <h1>cloudformation works</h1>
   );
 }
 
